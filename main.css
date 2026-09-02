@@ -55,6 +55,6 @@ a:hover	{
 	}
 
 	table {
-		margin: 100%;
+		margin-left: 0;
 	}
 }
