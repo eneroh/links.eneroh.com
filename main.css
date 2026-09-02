@@ -48,4 +48,8 @@ a:hover	{
 
 /* configuration for smartphone devices, ugh
 under progress */
-@media
+@media only screen and (max-width: 600px) {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
