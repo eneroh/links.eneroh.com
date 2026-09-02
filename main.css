@@ -46,8 +46,7 @@ a:hover	{
 	text-decoration: none;
 }
 
-/* configuration for smartphone devices, ugh
-under progress */
+/* configuration for smartphone devices */
 @media only screen and (max-width: 600px) {
 	*  {
 	margin: 0;
