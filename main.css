@@ -57,4 +57,8 @@ a:hover	{
 	table {
 		margin-left: 0;
 	}
+
+	th, td {
+		padding-left: 15px;
+	}
 }
